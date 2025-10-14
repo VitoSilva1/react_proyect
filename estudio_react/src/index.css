@@ -1,0 +1,16 @@
+/* Archivo creado para evitar error por import faltante */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+/* Estilos mínimos para comprobar que la app carga */
+.container {
+  padding: 1rem;
+}
