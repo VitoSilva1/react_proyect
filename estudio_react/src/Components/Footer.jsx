@@ -10,7 +10,7 @@ export default function Footer() {
                         <p>Pagina de prueba realizada por VitoSilva</p>
                     </blockquote>
                     <figcaption className="blockquote-footer">
-                        derechos reservados <cite title="Source Title">Source Title</cite>
+                        derechos reservados <cite title="Source Title">VitoDev</cite>
                     </figcaption>
                 </figure>
             </div>
